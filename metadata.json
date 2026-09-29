@@ -1,0 +1,8 @@
+{
+  "name": "Prom Coast | South Gippsland & Wilsons Promontory Guide & Bookings",
+  "description": "Explore South Gippsland, Victoria. Discover pristine beaches, Wilsons Promontory walks, local food and wine, boutique towns, and book handcrafted accommodation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
